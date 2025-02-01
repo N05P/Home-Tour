@@ -14,3 +14,13 @@ This is a visually appealing **Home Tour** front page built using **HTML & CSS**
 
 ## 📂 Project Structure  
 
+
+- `index.html` → Main HTML structure  
+- `style.css` → Styling for layout & effects   
+
+---
+
+## 🚀 How to Use  
+1. **Clone the repository**  
+   ```sh
+   git clone https://github.com/N05P/Home-Tour.git
