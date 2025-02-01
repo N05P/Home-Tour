@@ -20,7 +20,7 @@ This is a visually appealing **Home Tour** front page built using **HTML & CSS**
 
 ---
 
-## 🚀 How to Use  
+## 🚀 How to get the project  
 1. **Clone the repository**  
    ```sh
    git clone https://github.com/N05P/Home-Tour.git
